@@ -1,0 +1,5 @@
+PiecePerDay_num	NA
+SmkStaCode	3
+SmkInThisYear	False
+SmkStaDisName	过去吸,现在不吸
+SmkPeriod_year	10.0
